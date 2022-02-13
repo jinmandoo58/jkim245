@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jin
+- 👀 I’m interested in BJJ
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python Project
+- 📫 How to reach me: shoot me a Dm
