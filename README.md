@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jin
-- 👀 I’m interested in BJJ
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Project
+- 👋 Hi, I’m Nobody
+- 👀 I’m interested in High Salary Job
+- 🌱 I’m currently learning AI Dev
+- 💞️ I’m looking to collaborate on AI Dev
 - 📫 How to reach me: shoot me a Dm
