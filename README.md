@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nobody
+- 👋 Hi, I’m Jin
 - 👀 I’m interested in High Salary Job
 - 🌱 I’m currently learning AI Dev
 - 💞️ I’m looking to collaborate on AI Dev
